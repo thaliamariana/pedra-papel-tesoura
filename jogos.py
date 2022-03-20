@@ -66,7 +66,3 @@ def robo_contra_humano():
                 print("\n\nResultado final: Empatou com o robô. Seria você, também, um robô? '-'")
 
         rodada += 1
-
-
-if __name__ == "__main__":
-    ...
